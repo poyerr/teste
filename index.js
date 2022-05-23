@@ -1,1 +1,1 @@
-console.log("fui viajar esse fds")
+console.log(" tomando coca com 150")
